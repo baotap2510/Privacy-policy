@@ -1,6 +1,5 @@
 # Privacy-policy
- This is a privacy policy
-*Privacy Policy
+  This is a privacy policy
 
 [Developer/dvtuan.it@gmail.com] built the [Magic Tree] app as [free] app. This SERVICE is provided by [Developer/dvtuan.it@gmail.com] at no cost and is intended for use as is.
 
